@@ -1,0 +1,19 @@
+{
+	"project1": {
+		"projectname": "notablustgithubpg",
+		"version": 1,
+		"projectintname": "Website",
+		"projectDevelopers": "Notablust",
+		"projectGitHubprivacy": "public",
+		"org": "Notablust",
+	},
+
+	"project2": {
+		"projectname": "null",
+		"version": 1,
+		"projectintname": "Network",
+		"projectDevelopers": "Notablust",
+		"projectGitHubprivacy": "private",
+		"org": "Notablust",
+	}
+}
