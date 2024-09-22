@@ -33,3 +33,19 @@ th, td {
   	border: 1px solid rgb(255 255 255);
   	padding: 8px 10px;
 }
+
+.media {
+	background-color: #3b40ff;
+	padding-top: 35px;
+	padding-bottom: 35px;
+	padding-right: 35px;
+	padding-left: 35px;
+	color: white;
+	font-weight: 900;
+	width: 650px;
+	height: auto;
+	margin-left: auto;
+ 	margin-right: auto;
+ 	margin-top: 50px;
+ 	text-align: center;
+}
