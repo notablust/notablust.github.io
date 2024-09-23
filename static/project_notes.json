@@ -2,12 +2,15 @@
 	"proj1notes": {
 		"noteauthor": "Notablust",
 		"version": 1,
+		"buildId": 20,
 		"notes": "This is my website, I'm trying to make it look like an early 2000's page",
+		"notes2": "I might need help with this....",
 	},
 
 	"proj2notes": {
 		"noteauthor": "Notablust",
 		"version": 1,
+		"buildId": 10,
 		"notes": "I shouldn't reveal what this is yet",
 	}
 }
