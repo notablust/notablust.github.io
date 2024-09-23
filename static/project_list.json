@@ -9,11 +9,11 @@
 	},
 
 	"project2": {
-		"projectname": "the-social-network-project",
+		"projectname": "null",
 		"version": 1,
-		"projectintname": "networkproj",
+		"projectintname": "private",
 		"projectDevelopers": "Notablust",
-		"projectGitHubprivacy": "public",
+		"projectGitHubprivacy": "private",
 		"org": "Notablust",
 	}
 }
