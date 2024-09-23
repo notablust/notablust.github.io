@@ -2,6 +2,7 @@
 	"project1": {
 		"projectname": "notablustgithubpg",
 		"version": 1,
+		"buildId": 10,
 		"projectintname": "Website",
 		"projectDevelopers": "Notablust",
 		"projectGitHubprivacy": "public",
@@ -11,6 +12,7 @@
 	"project2": {
 		"projectname": "null",
 		"version": 1,
+		"buildId": 10,
 		"projectintname": "private",
 		"projectDevelopers": "Notablust",
 		"projectGitHubprivacy": "private",
