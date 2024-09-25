@@ -2,7 +2,7 @@
 	"project1": {
 		"projectname": "notablust.github.io",
 		"version": 1,
-		"buildId": 50,
+		"buildId": 60,
 		"projectintname": "Website",
 		"projectDevelopers": "Notablust",
 		"projectGitHubprivacy": "public",
