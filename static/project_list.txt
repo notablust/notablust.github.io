@@ -2,7 +2,7 @@
 	"project1": {
 		"projectname": "notablust.github.io",
 		"version": 1,
-		"buildId": 40,
+		"buildId": 50,
 		"projectintname": "Website",
 		"projectDevelopers": "Notablust",
 		"projectGitHubprivacy": "public",
@@ -16,6 +16,6 @@
 		"projectintname": "private",
 		"projectDevelopers": "Notablust",
 		"projectGitHubprivacy": "private",
-		"org": "Notablust",
+		"org": "Notablust-Projects",
 	}
 }
